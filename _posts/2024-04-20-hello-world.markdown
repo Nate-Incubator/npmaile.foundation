@@ -3,6 +3,8 @@ layout: post
 title:  "Creation of the Foundation!"
 date:   2024-04-20 03:17:44 +0700
 categories: foundation 
+author: Geordi
+timezone: 'Asia/Ho_Chi_Minh'
 ---
 
 Hello world!
