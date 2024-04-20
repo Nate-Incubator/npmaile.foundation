@@ -30,8 +30,6 @@ github_username:  Nate-Incubator
 
 # Build settings
 theme: ninetyeight
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
