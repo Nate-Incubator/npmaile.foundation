@@ -8,7 +8,7 @@ permalink: /about/
     <img src="/assets/img/old-fat-nate.png" />
 </center>
 
-<b>The Nate Stream Incubator Foundation is a joke(much like Nate himself:).</b>
+<b>The Nate Stream Incubator Foundation is a joke (much like Nate himself).</b>
 
 This site serves as a frontend for the collection of projects created by the "fanbase" of D-list tech streamer "npmaile".
 
