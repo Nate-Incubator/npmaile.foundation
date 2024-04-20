@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Nate Stream Incubator - About
 permalink: /about/
 ---
 

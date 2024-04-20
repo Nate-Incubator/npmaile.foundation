@@ -29,7 +29,7 @@ twitter_username: npmaile
 github_username:  Nate-Incubator
 
 # Build settings
-theme: minima
+theme: ninetyeight
 plugins:
   - jekyll-feed
 
